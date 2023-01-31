@@ -1,0 +1,14 @@
+/*
+ * Replace this with your own classes
+ *
+ * e.g.
+ * .container {
+ * }
+*/
+.container {
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: silver;
+}
